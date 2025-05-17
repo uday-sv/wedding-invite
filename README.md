@@ -8,7 +8,7 @@ This repository contains a modern, responsive wedding invitation website built u
 - Countdown timer to the event  
 - Photo gallery carousel  
 - Google Calendar integration
-- - Interactive comment section  
+- Interactive comment section  
 
 - Customizable content and easy to personalize  
 
